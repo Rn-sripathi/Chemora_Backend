@@ -1,0 +1,10 @@
+spacy
+transformers
+torch
+pubchempy
+rdkit
+sentence-transformers
+numpy
+pandas
+scikit-learn
+pytest
